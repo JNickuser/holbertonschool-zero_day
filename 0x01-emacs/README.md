@@ -1,1 +1,1 @@
-** Index of emacs challenge **
+**All exercises of emacs challenge**

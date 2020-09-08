@@ -1,1 +1,1 @@
-Index of vagrant folder
+Index of vagrant challenge

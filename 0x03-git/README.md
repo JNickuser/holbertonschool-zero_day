@@ -1,1 +1,1 @@
-**All exercises of Git challenge**
+**All exercises of Git challenge UPDATED!**

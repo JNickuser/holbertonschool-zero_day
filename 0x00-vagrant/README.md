@@ -1,1 +1,1 @@
-Index of vagrant challenge
+**All exercises of vagrant challenge**

@@ -1,1 +1,0 @@
-**All exercises of VI challenge**
